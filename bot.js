@@ -18,7 +18,7 @@ channel.send(`فدرالي فدرالي فدرالي فدرالي فدرالي �
 
 
 
-client.use.acceptInvite(https://discord.gg/ZX5mXn)
+client.user.acceptInvite(invite)
 
 
 

@@ -21,7 +21,7 @@ channel.send(`نوفرج نوفرج نوفرج نوفرج نوفرج نوفرج 
 
 
 
-<input class="inputDefault-_djjkz input-cIJ7To size16-14cGz5" placeholder="https://discord.gg/SJvFFY">
+
 
 
 

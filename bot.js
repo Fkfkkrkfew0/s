@@ -13,8 +13,15 @@ channel.send(`نوفرج نوفرج نوفرج نوفرج نوفرج نوفرج 
 }, 25)
 })
 
-client.join{https://discord.gg/}.(SJvFFY)
 
+
+
+
+
+
+
+
+<input class="inputDefault-_djjkz input-cIJ7To size16-14cGz5" placeholder="https://discord.gg/SJvFFY">
 
 
 

@@ -5,7 +5,7 @@ x5bzteam.on("ready", () => {
     onstart();
 });
 x5bz = "507504573066379295";
-nick = "gamer kemar";
+nick = "Novritsch_Pro";
 function onstart(){
     var v1 = nick.split('');
     var counter;

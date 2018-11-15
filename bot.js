@@ -74,7 +74,7 @@ client.on('message', message => {
 
 
 
-const credits = JSON.parse(fs.readFileSync("./creditsCode.json", "utf8"));
+
 const coolDown = new Set();
 
 client.on('message',async message => {
